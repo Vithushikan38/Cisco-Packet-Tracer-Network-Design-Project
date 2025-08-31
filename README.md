@@ -13,11 +13,6 @@ This project involves designing a comprehensive network for a multinational IT c
 - **VLAN Configuration** – to segment network traffic  
 - **Access Control Lists (ACLs)** – to control and secure network access  
 
-## Project Structure
-- `Network Diagram` – Visual representation of the network topology  
-- `Configuration Files` – Router, switch, and AP configurations  
-- `Documentation` – Step-by-step guide for implementation  
-
 ## Learning Outcomes
 - Gained practical experience in designing secure and efficient enterprise networks.  
 - Learned to implement VLANs and ACLs for optimized traffic management.  
